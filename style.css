@@ -1,0 +1,24 @@
+input {
+    margin: 10px;
+}
+
+#submit {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#sort {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+}
+
+.line {
+    height: 5px;
+    width: 100px;
+    color: rgb(0, 0, 0);
+}
+
+h2 {
+    margin-top: 10;
+}
